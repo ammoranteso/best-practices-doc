@@ -8,8 +8,8 @@ You are very welcome to add new ideas that you consider can improve our code del
 
 1. [Typescript](#Typescript)
 1. [React](#React)
-1. [CSS & SASS](#CSS&SASS)
-1. [Clean Code](#CleanCode)
+1. [CSS&SASS](#CSSSASS)
+1. [Clean Code](#Clean-Code)
 
 ## Typescript
 
@@ -1279,7 +1279,7 @@ export { Nav, CookieBanner }
 
 - Code that needs to talk to a network, or, database is mocked
 
-## CSS & SASS
+## CSS&SASS
 
 - Avoid Inline CSS
 
